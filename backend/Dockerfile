@@ -8,7 +8,7 @@ ADD . /code
 WORKDIR /code
 
 RUN apt update && \
-  apt install python3-pip && \
+  apt install python3-pip -y && \
   pip install django && \
   pip install pytest && \
   pip install pytest-django && \
