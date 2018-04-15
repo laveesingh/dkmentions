@@ -1,0 +1,15 @@
+attrs==17.4.0
+coverage==4.5.1
+Django==2.0.4
+Faker==0.8.8
+mixer==6.0.1
+more-itertools==4.1.0
+pluggy==0.6.0
+py==1.5.3
+pytest==3.5.0
+pytest-cov==2.5.1
+pytest-django==3.2.1
+python-dateutil==2.7.2
+pytz==2018.4
+six==1.11.0
+text-unidecode==1.2
